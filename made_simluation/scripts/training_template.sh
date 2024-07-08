@@ -1,0 +1,15 @@
+ python train_codet_at.py \
+    -d ../v2x-sim-1.0/train \
+    --bound lowerbound \
+    --com disco \
+    --kd_flag 1 \
+    --resume_teacher checkpoints/teacher.pth \
+    --log \
+    --batch 4 \
+    --attack_mode others \
+    --no_com \
+    --eps 0.1 \
+    --alpha 0.1 \
+    --step 1 \
+    --att_target pred \
+    --logpath AT_eps0.1_step1_bs4_pred/

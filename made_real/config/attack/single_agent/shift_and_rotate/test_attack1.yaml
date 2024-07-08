@@ -1,0 +1,14 @@
+# Basic attack config, use for basic debug
+attack:
+  bbox_num: max
+  n_att: 1
+  shift:
+    shift_length: 4
+    shift_direction: random
+    padding_type: around
+  rotate:
+    shift_angle: 30
+    shift_type: exact
+    padding_type: around
+  attack_target: gt
+

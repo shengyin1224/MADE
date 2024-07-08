@@ -1,0 +1,17 @@
+# Basic attack config, use for basic debug
+attack:
+  pgd:
+    eps: [0.15,0,0]
+    alpha: 0.03
+    steps: 10
+    n_att: 1
+    attack_mode: others
+    project: True
+    colla_attack: False
+    noise_attack: False
+    save_path: '/GPFS/data/shengyin/OpenCOOD-main/save_attack/single_agent'
+    save_attack: True
+  attack_target: pred
+  loss_type: real_new_modified
+  # attack_target: gt
+

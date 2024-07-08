@@ -1,0 +1,4 @@
+GPU number: 1
+command line: train_codet_at.py -d ../v2x-sim-1.0/train --bound lowerbound --com disco --kd_flag 1 --resume_teacher checkpoints/teacher.pth --batch 8 --attack config/attack/single_agent/keep_sparse_pos/N01_E5e-01_S20_sparse_pos.yaml
+Namespace(alpha=0.05, att_target='pred', att_vis=None, attack='config/attack/single_agent/keep_sparse_pos/N01_E5e-01_S20_sparse_pos.yaml', attack_com=True, attack_mode='self', attack_no_proj=False, batch=8, bound='lowerbound', com='disco', data='../v2x-sim-1.0/train', eps=0.1, gnn_iter_times=3, kd_flag=1, kd_weight=100000, layer=3, log=False, logpath='./AT', lr=0.001, nepoch=100, nworker=2, resume='', resume_teacher='checkpoints/teacher.pth', step=15, visualization=True, warp_flag=False)
+

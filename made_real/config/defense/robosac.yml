@@ -1,0 +1,5 @@
+rob_type : robosac_mAP
+robosac_k : 1
+step_budget : 2
+match_thresh : 0.3
+use_history : False

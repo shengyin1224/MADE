@@ -1,0 +1,20 @@
+# Basic attack config, use for basic debug
+attack:
+  shift:
+    bbox_num: max
+    n_att: 1
+    shift_length: 4
+    shift_direction: random
+    padding_type: around
+  pgd:
+    eps: [5,0,0]
+    alpha: 1
+    steps: 20
+    n_att: 1
+    project: True
+    colla_attack: False
+    noise_attack: False
+    save_attack: True
+  attack_target: pred
+  save_path: '/GPFS/data/shengyin/OpencoodV2-Main/OpenCOODv2/save_attack/0530_shift_and_pgd_single_agent'
+  loss_type: shift_and_pgd

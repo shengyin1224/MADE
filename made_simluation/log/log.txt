@@ -1,0 +1,428 @@
+GPU number: 1
+command line: --detection_method none --attack config/attack/shift/debug.yaml --log --logdir experiments/debug/
+Namespace(alpha=0.1, att_subpath=None, att_target='pred', att_vis=None, attack='config/attack/shift/debug.yaml', attack_com=True, attack_mode='self', attack_no_proj=False, batch=4, bound='lowerbound', box_com=False, com='disco', data='../v2x-sim-1.0/test/', detection_method='none', eps=0.1, gnn_iter_times=3, inference=None, kd_flag=0, kd_weight=100000, layer=3, log=True, logpath='./log', lr=0.001, nepoch=100, nworker=1, resume='checkpoints/DiscoNet.pth', resume_teacher='', save_path=None, step=15, tracking=False, visualization=False, warp_flag=False)
+
+GPU number: 1
+command line: --detection_method none --attack config/attack/shift/debug.yaml --log --logdir experiments/debug/
+Namespace(alpha=0.1, att_subpath=None, att_target='pred', att_vis=None, attack='config/attack/shift/debug.yaml', attack_com=True, attack_mode='self', attack_no_proj=False, batch=4, bound='lowerbound', box_com=False, com='disco', data='../v2x-sim-1.0/test/', detection_method='none', eps=0.1, gnn_iter_times=3, inference=None, kd_flag=0, kd_weight=100000, layer=3, log=True, logpath='./log', lr=0.001, nepoch=100, nworker=1, resume='checkpoints/DiscoNet.pth', resume_teacher='', save_path=None, step=15, tracking=False, visualization=False, warp_flag=False)
+
+GPU number: 1
+command line: --detection_method none --attack config/attack/shift/debug.yaml --log --logdir experiments/debug/
+Namespace(alpha=0.1, att_subpath=None, att_target='pred', att_vis=None, attack='config/attack/shift/debug.yaml', attack_com=True, attack_mode='self', attack_no_proj=False, batch=4, bound='lowerbound', box_com=False, com='disco', data='../v2x-sim-1.0/test/', detection_method='none', eps=0.1, gnn_iter_times=3, inference=None, kd_flag=0, kd_weight=100000, layer=3, log=True, logpath='./log', lr=0.001, nepoch=100, nworker=1, resume='checkpoints/DiscoNet.pth', resume_teacher='', save_path=None, step=15, tracking=False, visualization=False, warp_flag=False)
+
+GPU number: 1
+command line: --detection_method none --attack config/attack/shift/debug.yaml --log --logdir experiments/debug/
+Namespace(alpha=0.1, att_subpath=None, att_target='pred', att_vis=None, attack='config/attack/shift/debug.yaml', attack_com=True, attack_mode='self', attack_no_proj=False, batch=4, bound='lowerbound', box_com=False, com='disco', data='../v2x-sim-1.0/test/', detection_method='none', eps=0.1, gnn_iter_times=3, inference=None, kd_flag=0, kd_weight=100000, layer=3, log=True, logpath='./log', lr=0.001, nepoch=100, nworker=1, resume='checkpoints/DiscoNet.pth', resume_teacher='', save_path=None, step=15, tracking=False, visualization=False, warp_flag=False)
+
+GPU number: 1
+command line: --detection_method none --attack config/attack/shift/debug.yaml --log --logdir experiments/debug/
+Namespace(alpha=0.1, att_subpath=None, att_target='pred', att_vis=None, attack='config/attack/shift/debug.yaml', attack_com=True, attack_mode='self', attack_no_proj=False, batch=4, bound='lowerbound', box_com=False, com='disco', data='../v2x-sim-1.0/test/', detection_method='none', eps=0.1, gnn_iter_times=3, inference=None, kd_flag=0, kd_weight=100000, layer=3, log=True, logpath='./log', lr=0.001, nepoch=100, nworker=1, resume='checkpoints/DiscoNet.pth', resume_teacher='', save_path=None, step=15, tracking=False, visualization=False, warp_flag=False)
+
+GPU number: 1
+command line: --detection_method none --attack config/attack/shift/debug.yaml --log --logdir experiments/debug/
+Namespace(alpha=0.1, att_subpath=None, att_target='pred', att_vis=None, attack='config/attack/shift/debug.yaml', attack_com=True, attack_mode='self', attack_no_proj=False, batch=4, bound='lowerbound', box_com=False, com='disco', data='../v2x-sim-1.0/test/', detection_method='none', eps=0.1, gnn_iter_times=3, inference=None, kd_flag=0, kd_weight=100000, layer=3, log=True, logpath='./log', lr=0.001, nepoch=100, nworker=1, resume='checkpoints/DiscoNet.pth', resume_teacher='', save_path=None, step=15, tracking=False, visualization=False, warp_flag=False)
+
+GPU number: 1
+command line: --detection_method none --attack config/attack/shift/debug.yaml --log --logdir experiments/debug/
+Namespace(alpha=0.1, att_subpath=None, att_target='pred', att_vis=None, attack='config/attack/shift/debug.yaml', attack_com=True, attack_mode='self', attack_no_proj=False, batch=4, bound='lowerbound', box_com=False, com='disco', data='../v2x-sim-1.0/test/', detection_method='none', eps=0.1, gnn_iter_times=3, inference=None, kd_flag=0, kd_weight=100000, layer=3, log=True, logpath='./log', lr=0.001, nepoch=100, nworker=1, resume='checkpoints/DiscoNet.pth', resume_teacher='', save_path=None, step=15, tracking=False, visualization=False, warp_flag=False)
+
+GPU number: 1
+command line: --detection_method none --attack config/attack/shift/debug.yaml --log --logdir experiments/debug/
+Namespace(alpha=0.1, att_subpath=None, att_target='pred', att_vis=None, attack='config/attack/shift/debug.yaml', attack_com=True, attack_mode='self', attack_no_proj=False, batch=4, bound='lowerbound', box_com=False, com='disco', data='../v2x-sim-1.0/test/', detection_method='none', eps=0.1, gnn_iter_times=3, inference=None, kd_flag=0, kd_weight=100000, layer=3, log=True, logpath='./log', lr=0.001, nepoch=100, nworker=1, resume='checkpoints/DiscoNet.pth', resume_teacher='', save_path=None, step=15, tracking=False, visualization=False, warp_flag=False)
+
+GPU number: 1
+command line: --detection_method none --attack config/attack/shift/debug.yaml --log --logdir experiments/debug/
+Namespace(alpha=0.1, att_subpath=None, att_target='pred', att_vis=None, attack='config/attack/shift/debug.yaml', attack_com=True, attack_mode='self', attack_no_proj=False, batch=4, bound='lowerbound', box_com=False, com='disco', data='../v2x-sim-1.0/test/', detection_method='none', eps=0.1, gnn_iter_times=3, inference=None, kd_flag=0, kd_weight=100000, layer=3, log=True, logpath='./log', lr=0.001, nepoch=100, nworker=1, resume='checkpoints/DiscoNet.pth', resume_teacher='', save_path=None, step=15, tracking=False, visualization=False, warp_flag=False)
+
+GPU number: 1
+command line: --detection_method none --attack config/attack/shift/debug.yaml --log --logdir experiments/debug/
+Namespace(alpha=0.1, att_subpath=None, att_target='pred', att_vis=None, attack='config/attack/shift/debug.yaml', attack_com=True, attack_mode='self', attack_no_proj=False, batch=4, bound='lowerbound', box_com=False, com='disco', data='../v2x-sim-1.0/test/', detection_method='none', eps=0.1, gnn_iter_times=3, inference=None, kd_flag=0, kd_weight=100000, layer=3, log=True, logpath='./log', lr=0.001, nepoch=100, nworker=1, resume='checkpoints/DiscoNet.pth', resume_teacher='', save_path=None, step=15, tracking=False, visualization=False, warp_flag=False)
+
+GPU number: 1
+command line: --detection_method none --attack config/attack/shift/debug.yaml --log --logdir experiments/debug/
+Namespace(alpha=0.1, att_subpath=None, att_target='pred', att_vis=None, attack='config/attack/shift/debug.yaml', attack_com=True, attack_mode='self', attack_no_proj=False, batch=4, bound='lowerbound', box_com=False, com='disco', data='../v2x-sim-1.0/test/', detection_method='none', eps=0.1, gnn_iter_times=3, inference=None, kd_flag=0, kd_weight=100000, layer=3, log=True, logpath='./log', lr=0.001, nepoch=100, nworker=1, resume='checkpoints/DiscoNet.pth', resume_teacher='', save_path=None, step=15, tracking=False, visualization=False, warp_flag=False)
+
+GPU number: 1
+command line: --detection_method none --attack config/attack/shift/debug.yaml --log --logdir experiments/debug/
+Namespace(alpha=0.1, att_subpath=None, att_target='pred', att_vis=None, attack='config/attack/shift/debug.yaml', attack_com=True, attack_mode='self', attack_no_proj=False, batch=4, bound='lowerbound', box_com=False, com='disco', data='../v2x-sim-1.0/test/', detection_method='none', eps=0.1, gnn_iter_times=3, inference=None, kd_flag=0, kd_weight=100000, layer=3, log=True, logpath='./log', lr=0.001, nepoch=100, nworker=1, resume='checkpoints/DiscoNet.pth', resume_teacher='', save_path=None, step=15, tracking=False, visualization=False, warp_flag=False)
+
+GPU number: 1
+command line: --detection_method none --attack config/attack/shift/debug.yaml --log --logdir experiments/debug/
+Namespace(alpha=0.1, att_subpath=None, att_target='pred', att_vis=None, attack='config/attack/shift/debug.yaml', attack_com=True, attack_mode='self', attack_no_proj=False, batch=4, bound='lowerbound', box_com=False, com='disco', data='../v2x-sim-1.0/test/', detection_method='none', eps=0.1, gnn_iter_times=3, inference=None, kd_flag=0, kd_weight=100000, layer=3, log=True, logpath='./log', lr=0.001, nepoch=100, nworker=1, resume='checkpoints/DiscoNet.pth', resume_teacher='', save_path=None, step=15, tracking=False, visualization=False, warp_flag=False)
+
+GPU number: 1
+command line: --detection_method none --attack config/attack/shift/debug.yaml --log --logdir experiments/debug/
+Namespace(alpha=0.1, att_subpath=None, att_target='pred', att_vis=None, attack='config/attack/shift/debug.yaml', attack_com=True, attack_mode='self', attack_no_proj=False, batch=4, bound='lowerbound', box_com=False, com='disco', data='../v2x-sim-1.0/test/', detection_method='none', eps=0.1, gnn_iter_times=3, inference=None, kd_flag=0, kd_weight=100000, layer=3, log=True, logpath='./log', lr=0.001, nepoch=100, nworker=1, resume='checkpoints/DiscoNet.pth', resume_teacher='', save_path=None, step=15, tracking=False, visualization=False, warp_flag=False)
+
+GPU number: 1
+command line: --detection_method none --attack config/attack/shift/debug.yaml --log --logdir experiments/debug/
+Namespace(alpha=0.1, att_subpath=None, att_target='pred', att_vis=None, attack='config/attack/shift/debug.yaml', attack_com=True, attack_mode='self', attack_no_proj=False, batch=4, bound='lowerbound', box_com=False, com='disco', data='../v2x-sim-1.0/test/', detection_method='none', eps=0.1, gnn_iter_times=3, inference=None, kd_flag=0, kd_weight=100000, layer=3, log=True, logpath='./log', lr=0.001, nepoch=100, nworker=1, resume='checkpoints/DiscoNet.pth', resume_teacher='', save_path=None, step=15, tracking=False, visualization=False, warp_flag=False)
+
+GPU number: 1
+command line: --detection_method none --attack config/attack/shift/debug.yaml --log --logdir experiments/debug/
+Namespace(alpha=0.1, att_subpath=None, att_target='pred', att_vis=None, attack='config/attack/shift/debug.yaml', attack_com=True, attack_mode='self', attack_no_proj=False, batch=4, bound='lowerbound', box_com=False, com='disco', data='../v2x-sim-1.0/test/', detection_method='none', eps=0.1, gnn_iter_times=3, inference=None, kd_flag=0, kd_weight=100000, layer=3, log=True, logpath='./log', lr=0.001, nepoch=100, nworker=1, resume='checkpoints/DiscoNet.pth', resume_teacher='', save_path=None, step=15, tracking=False, visualization=False, warp_flag=False)
+
+GPU number: 1
+command line: --detection_method none --attack config/attack/shift/debug.yaml --log --logdir experiments/debug/
+Namespace(alpha=0.1, att_subpath=None, att_target='pred', att_vis=None, attack='config/attack/shift/debug.yaml', attack_com=True, attack_mode='self', attack_no_proj=False, batch=4, bound='lowerbound', box_com=False, com='disco', data='../v2x-sim-1.0/test/', detection_method='none', eps=0.1, gnn_iter_times=3, inference=None, kd_flag=0, kd_weight=100000, layer=3, log=True, logpath='./log', lr=0.001, nepoch=100, nworker=1, resume='checkpoints/DiscoNet.pth', resume_teacher='', save_path=None, step=15, tracking=False, visualization=False, warp_flag=False)
+
+GPU number: 1
+command line: --detection_method none --attack config/attack/shift/debug.yaml --log --logdir experiments/debug/
+Namespace(alpha=0.1, att_subpath=None, att_target='pred', att_vis=None, attack='config/attack/shift/debug.yaml', attack_com=True, attack_mode='self', attack_no_proj=False, batch=4, bound='lowerbound', box_com=False, com='disco', data='../v2x-sim-1.0/test/', detection_method='none', eps=0.1, gnn_iter_times=3, inference=None, kd_flag=0, kd_weight=100000, layer=3, log=True, logpath='./log', lr=0.001, nepoch=100, nworker=1, resume='checkpoints/DiscoNet.pth', resume_teacher='', save_path=None, step=15, tracking=False, visualization=False, warp_flag=False)
+
+GPU number: 1
+command line: --detection_method none --attack config/attack/shift/debug.yaml --log --logdir experiments/debug/
+Namespace(alpha=0.1, att_subpath=None, att_target='pred', att_vis=None, attack='config/attack/shift/debug.yaml', attack_com=True, attack_mode='self', attack_no_proj=False, batch=4, bound='lowerbound', box_com=False, com='disco', data='../v2x-sim-1.0/test/', detection_method='none', eps=0.1, gnn_iter_times=3, inference=None, kd_flag=0, kd_weight=100000, layer=3, log=True, logpath='./log', lr=0.001, nepoch=100, nworker=1, resume='checkpoints/DiscoNet.pth', resume_teacher='', save_path=None, step=15, tracking=False, visualization=False, warp_flag=False)
+
+GPU number: 1
+command line: --detection_method none --attack config/attack/shift/debug.yaml --log --logdir experiments/debug/
+Namespace(alpha=0.1, att_subpath=None, att_target='pred', att_vis=None, attack='config/attack/shift/debug.yaml', attack_com=True, attack_mode='self', attack_no_proj=False, batch=4, bound='lowerbound', box_com=False, com='disco', data='../v2x-sim-1.0/test/', detection_method='none', eps=0.1, gnn_iter_times=3, inference=None, kd_flag=0, kd_weight=100000, layer=3, log=True, logpath='./log', lr=0.001, nepoch=100, nworker=1, resume='checkpoints/DiscoNet.pth', resume_teacher='', save_path=None, step=15, tracking=False, visualization=False, warp_flag=False)
+
+GPU number: 1
+command line: --detection_method none --attack config/attack/shift/debug.yaml --log --logdir experiments/debug/
+Namespace(alpha=0.1, att_subpath=None, att_target='pred', att_vis=None, attack='config/attack/shift/debug.yaml', attack_com=True, attack_mode='self', attack_no_proj=False, batch=4, bound='lowerbound', box_com=False, com='disco', data='../v2x-sim-1.0/test/', detection_method='none', eps=0.1, gnn_iter_times=3, inference=None, kd_flag=0, kd_weight=100000, layer=3, log=True, logpath='./log', lr=0.001, nepoch=100, nworker=1, resume='checkpoints/DiscoNet.pth', resume_teacher='', save_path=None, step=15, tracking=False, visualization=False, warp_flag=False)
+
+GPU number: 1
+command line: --detection_method none --attack config/attack/shift/debug.yaml --log --logdir experiments/debug/
+Namespace(alpha=0.1, att_subpath=None, att_target='pred', att_vis=None, attack='config/attack/shift/debug.yaml', attack_com=True, attack_mode='self', attack_no_proj=False, batch=4, bound='lowerbound', box_com=False, com='disco', data='../v2x-sim-1.0/test/', detection_method='none', eps=0.1, gnn_iter_times=3, inference=None, kd_flag=0, kd_weight=100000, layer=3, log=True, logpath='./log', lr=0.001, nepoch=100, nworker=1, resume='checkpoints/DiscoNet.pth', resume_teacher='', save_path=None, step=15, tracking=False, visualization=False, warp_flag=False)
+
+GPU number: 1
+command line: --detection_method none --attack config/attack/shift/debug.yaml --log --logdir experiments/debug/
+Namespace(alpha=0.1, att_subpath=None, att_target='pred', att_vis=None, attack='config/attack/shift/debug.yaml', attack_com=True, attack_mode='self', attack_no_proj=False, batch=4, bound='lowerbound', box_com=False, com='disco', data='../v2x-sim-1.0/test/', detection_method='none', eps=0.1, gnn_iter_times=3, inference=None, kd_flag=0, kd_weight=100000, layer=3, log=True, logpath='./log', lr=0.001, nepoch=100, nworker=1, resume='checkpoints/DiscoNet.pth', resume_teacher='', save_path=None, step=15, tracking=False, visualization=False, warp_flag=False)
+
+GPU number: 1
+command line: --detection_method none --attack config/attack/shift/debug.yaml --log --logdir experiments/debug/
+Namespace(alpha=0.1, att_subpath=None, att_target='pred', att_vis=None, attack='config/attack/shift/debug.yaml', attack_com=True, attack_mode='self', attack_no_proj=False, batch=4, bound='lowerbound', box_com=False, com='disco', data='../v2x-sim-1.0/test/', detection_method='none', eps=0.1, gnn_iter_times=3, inference=None, kd_flag=0, kd_weight=100000, layer=3, log=True, logpath='./log', lr=0.001, nepoch=100, nworker=1, resume='checkpoints/DiscoNet.pth', resume_teacher='', save_path=None, step=15, tracking=False, visualization=False, warp_flag=False)
+
+GPU number: 1
+command line: --detection_method none --attack config/attack/shift/debug.yaml --log --logdir experiments/debug/
+Namespace(alpha=0.1, att_subpath=None, att_target='pred', att_vis=None, attack='config/attack/shift/debug.yaml', attack_com=True, attack_mode='self', attack_no_proj=False, batch=4, bound='lowerbound', box_com=False, com='disco', data='../v2x-sim-1.0/test/', detection_method='none', eps=0.1, gnn_iter_times=3, inference=None, kd_flag=0, kd_weight=100000, layer=3, log=True, logpath='./log', lr=0.001, nepoch=100, nworker=1, resume='checkpoints/DiscoNet.pth', resume_teacher='', save_path=None, step=15, tracking=False, visualization=False, warp_flag=False)
+
+GPU number: 1
+command line: --detection_method none --attack config/attack/shift/debug.yaml --log --logdir experiments/debug/
+Namespace(alpha=0.1, att_subpath=None, att_target='pred', att_vis=None, attack='config/attack/shift/debug.yaml', attack_com=True, attack_mode='self', attack_no_proj=False, batch=4, bound='lowerbound', box_com=False, com='disco', data='../v2x-sim-1.0/test/', detection_method='none', eps=0.1, gnn_iter_times=3, inference=None, kd_flag=0, kd_weight=100000, layer=3, log=True, logpath='./log', lr=0.001, nepoch=100, nworker=1, resume='checkpoints/DiscoNet.pth', resume_teacher='', save_path=None, step=15, tracking=False, visualization=False, warp_flag=False)
+
+GPU number: 1
+command line: --detection_method none --attack config/attack/shift/debug.yaml --log --logdir experiments/debug/
+Namespace(alpha=0.1, att_subpath=None, att_target='pred', att_vis=None, attack='config/attack/shift/debug.yaml', attack_com=True, attack_mode='self', attack_no_proj=False, batch=4, bound='lowerbound', box_com=False, com='disco', data='../v2x-sim-1.0/test/', detection_method='none', eps=0.1, gnn_iter_times=3, inference=None, kd_flag=0, kd_weight=100000, layer=3, log=True, logpath='./log', lr=0.001, nepoch=100, nworker=1, resume='checkpoints/DiscoNet.pth', resume_teacher='', save_path=None, step=15, tracking=False, visualization=False, warp_flag=False)
+
+GPU number: 1
+command line: --detection_method none --attack config/attack/shift/debug.yaml --log --logdir experiments/debug/
+Namespace(alpha=0.1, att_subpath=None, att_target='pred', att_vis=None, attack='config/attack/shift/debug.yaml', attack_com=True, attack_mode='self', attack_no_proj=False, batch=4, bound='lowerbound', box_com=False, com='disco', data='../v2x-sim-1.0/test/', detection_method='none', eps=0.1, gnn_iter_times=3, inference=None, kd_flag=0, kd_weight=100000, layer=3, log=True, logpath='./log', lr=0.001, nepoch=100, nworker=1, resume='checkpoints/DiscoNet.pth', resume_teacher='', save_path=None, step=15, tracking=False, visualization=False, warp_flag=False)
+
+GPU number: 1
+command line: --detection_method none --attack config/attack/shift/debug.yaml --log --logdir experiments/debug/
+Namespace(alpha=0.1, att_subpath=None, att_target='pred', att_vis=None, attack='config/attack/shift/debug.yaml', attack_com=True, attack_mode='self', attack_no_proj=False, batch=4, bound='lowerbound', box_com=False, com='disco', data='../v2x-sim-1.0/test/', detection_method='none', eps=0.1, gnn_iter_times=3, inference=None, kd_flag=0, kd_weight=100000, layer=3, log=True, logpath='./log', lr=0.001, nepoch=100, nworker=1, resume='checkpoints/DiscoNet.pth', resume_teacher='', save_path=None, step=15, tracking=False, visualization=False, warp_flag=False)
+
+GPU number: 1
+command line: --detection_method none --attack config/attack/shift/debug.yaml --log --logdir experiments/debug/
+Namespace(alpha=0.1, att_subpath=None, att_target='pred', att_vis=None, attack='config/attack/shift/debug.yaml', attack_com=True, attack_mode='self', attack_no_proj=False, batch=4, bound='lowerbound', box_com=False, com='disco', data='../v2x-sim-1.0/test/', detection_method='none', eps=0.1, gnn_iter_times=3, inference=None, kd_flag=0, kd_weight=100000, layer=3, log=True, logpath='./log', lr=0.001, nepoch=100, nworker=1, resume='checkpoints/DiscoNet.pth', resume_teacher='', save_path=None, step=15, tracking=False, visualization=False, warp_flag=False)
+
+GPU number: 1
+command line: --detection_method none --attack config/attack/shift/debug.yaml --log --logdir experiments/debug/
+Namespace(alpha=0.1, att_subpath=None, att_target='pred', att_vis=None, attack='config/attack/shift/debug.yaml', attack_com=True, attack_mode='self', attack_no_proj=False, batch=4, bound='lowerbound', box_com=False, com='disco', data='../v2x-sim-1.0/test/', detection_method='none', eps=0.1, gnn_iter_times=3, inference=None, kd_flag=0, kd_weight=100000, layer=3, log=True, logpath='./log', lr=0.001, nepoch=100, nworker=1, resume='checkpoints/DiscoNet.pth', resume_teacher='', save_path=None, step=15, tracking=False, visualization=False, warp_flag=False)
+
+GPU number: 1
+command line: --detection_method none --attack config/attack/shift/debug.yaml --log --logdir experiments/debug/
+Namespace(alpha=0.1, att_subpath=None, att_target='pred', att_vis=None, attack='config/attack/shift/debug.yaml', attack_com=True, attack_mode='self', attack_no_proj=False, batch=4, bound='lowerbound', box_com=False, com='disco', data='../v2x-sim-1.0/test/', detection_method='none', eps=0.1, gnn_iter_times=3, inference=None, kd_flag=0, kd_weight=100000, layer=3, log=True, logpath='./log', lr=0.001, nepoch=100, nworker=1, resume='checkpoints/DiscoNet.pth', resume_teacher='', save_path=None, step=15, tracking=False, visualization=False, warp_flag=False)
+
+GPU number: 1
+command line: --detection_method none --attack config/attack/shift/debug.yaml --log --logdir experiments/debug/
+Namespace(alpha=0.1, att_subpath=None, att_target='pred', att_vis=None, attack='config/attack/shift/debug.yaml', attack_com=True, attack_mode='self', attack_no_proj=False, batch=4, bound='lowerbound', box_com=False, com='disco', data='../v2x-sim-1.0/test/', detection_method='none', eps=0.1, gnn_iter_times=3, inference=None, kd_flag=0, kd_weight=100000, layer=3, log=True, logpath='./log', lr=0.001, nepoch=100, nworker=1, resume='checkpoints/DiscoNet.pth', resume_teacher='', save_path=None, step=15, tracking=False, visualization=False, warp_flag=False)
+
+GPU number: 1
+command line: --detection_method none --attack config/attack/shift/debug.yaml --log --logdir experiments/debug/
+Namespace(alpha=0.1, att_subpath=None, att_target='pred', att_vis=None, attack='config/attack/shift/debug.yaml', attack_com=True, attack_mode='self', attack_no_proj=False, batch=4, bound='lowerbound', box_com=False, com='disco', data='../v2x-sim-1.0/test/', detection_method='none', eps=0.1, gnn_iter_times=3, inference=None, kd_flag=0, kd_weight=100000, layer=3, log=True, logpath='./log', lr=0.001, nepoch=100, nworker=1, resume='checkpoints/DiscoNet.pth', resume_teacher='', save_path=None, step=15, tracking=False, visualization=False, warp_flag=False)
+
+GPU number: 1
+command line: --detection_method none --attack config/attack/shift/debug.yaml --log --logdir experiments/debug/
+Namespace(alpha=0.1, att_subpath=None, att_target='pred', att_vis=None, attack='config/attack/shift/debug.yaml', attack_com=True, attack_mode='self', attack_no_proj=False, batch=4, bound='lowerbound', box_com=False, com='disco', data='../v2x-sim-1.0/test/', detection_method='none', eps=0.1, gnn_iter_times=3, inference=None, kd_flag=0, kd_weight=100000, layer=3, log=True, logpath='./log', lr=0.001, nepoch=100, nworker=1, resume='checkpoints/DiscoNet.pth', resume_teacher='', save_path=None, step=15, tracking=False, visualization=False, warp_flag=False)
+
+GPU number: 1
+command line: --detection_method none --attack config/attack/shift/debug.yaml --log --logdir experiments/debug/
+Namespace(alpha=0.1, att_subpath=None, att_target='pred', att_vis=None, attack='config/attack/shift/debug.yaml', attack_com=True, attack_mode='self', attack_no_proj=False, batch=4, bound='lowerbound', box_com=False, com='disco', data='../v2x-sim-1.0/test/', detection_method='none', eps=0.1, gnn_iter_times=3, inference=None, kd_flag=0, kd_weight=100000, layer=3, log=True, logpath='./log', lr=0.001, nepoch=100, nworker=1, resume='checkpoints/DiscoNet.pth', resume_teacher='', save_path=None, step=15, tracking=False, visualization=False, warp_flag=False)
+
++-------------+---------+---------+
+|             | mAP@0.5 | mAP@0.7 |
++-------------+---------+---------+
+| Agent 0 / 2 | 58.85   | 53.73   |
+| Agent 1 / 2 | 59.76   | 52.53   |
+| 2 agents    | 59.28   | 53.07   |
+| Agent 0 / 3 | 57.59   | 52.97   |
+| Agent 1 / 3 | 63.92   | 59.74   |
+| Agent 2 / 3 | 54.79   | 49.60   |
+| 3 agents    | 58.78   | 54.11   |
+| Agent 0 / 4 | 64.54   | 58.49   |
+| Agent 1 / 4 | 67.66   | 58.09   |
+| Agent 2 / 4 | 55.17   | 45.61   |
+| Agent 3 / 4 | 60.59   | 57.00   |
+| 4 agents    | 61.81   | 54.37   |
+| Average     | 60.26   | 53.93   |
++-------------+---------+---------+
+
+GPU number: 1
+command line: --detection_method none --attack config/attack/shift/debug.yaml --log --logdir experiments/debug/
+Namespace(alpha=0.1, att_subpath=None, att_target='pred', att_vis=None, attack='config/attack/shift/debug.yaml', attack_com=True, attack_mode='self', attack_no_proj=False, batch=4, bound='lowerbound', box_com=False, com='disco', data='../v2x-sim-1.0/test/', detection_method='none', eps=0.1, gnn_iter_times=3, inference=None, kd_flag=0, kd_weight=100000, layer=3, log=True, logpath='./log', lr=0.001, nepoch=100, nworker=1, resume='checkpoints/DiscoNet.pth', resume_teacher='', save_path=None, step=15, tracking=False, visualization=False, warp_flag=False)
+
+GPU number: 1
+command line: --detection_method none --attack config/attack/shift/debug.yaml --log --logdir experiments/debug/
+Namespace(alpha=0.1, att_subpath=None, att_target='pred', att_vis=None, attack='config/attack/shift/debug.yaml', attack_com=True, attack_mode='self', attack_no_proj=False, batch=4, bound='lowerbound', box_com=False, com='disco', data='../v2x-sim-1.0/test/', detection_method='none', eps=0.1, gnn_iter_times=3, inference=None, kd_flag=0, kd_weight=100000, layer=3, log=True, logpath='./log', lr=0.001, nepoch=100, nworker=1, resume='checkpoints/DiscoNet.pth', resume_teacher='', save_path=None, step=15, tracking=False, visualization=False, warp_flag=False)
+
++-------------+---------+---------+
+|             | mAP@0.5 | mAP@0.7 |
++-------------+---------+---------+
+| Agent 0 / 2 | 58.85   | 53.73   |
+| Agent 1 / 2 | 59.76   | 52.53   |
+| 2 agents    | 59.28   | 53.07   |
+| Agent 0 / 3 | 57.59   | 52.97   |
+| Agent 1 / 3 | 63.92   | 59.74   |
+| Agent 2 / 3 | 54.79   | 49.60   |
+| 3 agents    | 58.78   | 54.11   |
+| Agent 0 / 4 | 64.54   | 58.49   |
+| Agent 1 / 4 | 67.66   | 58.09   |
+| Agent 2 / 4 | 55.17   | 45.61   |
+| Agent 3 / 4 | 60.59   | 57.00   |
+| 4 agents    | 61.81   | 54.37   |
+| Average     | 60.26   | 53.93   |
++-------------+---------+---------+
+
+GPU number: 1
+command line: --detection_method none --attack config/attack/shift/debug.yaml --log --logdir experiments/debug/
+Namespace(alpha=0.1, att_subpath=None, att_target='pred', att_vis=None, attack='config/attack/shift/debug.yaml', attack_com=True, attack_mode='self', attack_no_proj=False, batch=4, bound='lowerbound', box_com=False, com='disco', data='../v2x-sim-1.0/test/', detection_method='none', eps=0.1, gnn_iter_times=3, inference=None, kd_flag=0, kd_weight=100000, layer=3, log=True, logpath='./log', lr=0.001, nepoch=100, nworker=1, resume='checkpoints/DiscoNet.pth', resume_teacher='', save_path=None, step=15, tracking=False, visualization=False, warp_flag=False)
+
++-------------+---------+---------+
+|             | mAP@0.5 | mAP@0.7 |
++-------------+---------+---------+
+| Agent 0 / 2 | 58.85   | 53.73   |
+| Agent 1 / 2 | 59.76   | 52.53   |
+| 2 agents    | 59.28   | 53.07   |
+| Agent 0 / 3 | 57.59   | 52.97   |
+| Agent 1 / 3 | 63.92   | 59.74   |
+| Agent 2 / 3 | 54.79   | 49.60   |
+| 3 agents    | 58.78   | 54.11   |
+| Agent 0 / 4 | 64.54   | 58.49   |
+| Agent 1 / 4 | 67.66   | 58.09   |
+| Agent 2 / 4 | 55.17   | 45.61   |
+| Agent 3 / 4 | 60.59   | 57.00   |
+| 4 agents    | 61.81   | 54.37   |
+| Average     | 60.26   | 53.93   |
++-------------+---------+---------+
+
+GPU number: 1
+command line: --detection_method none --attack config/attack/shift/debug.yaml --log --logdir experiments/debug/
+Namespace(alpha=0.1, att_subpath=None, att_target='pred', att_vis=None, attack='config/attack/shift/debug.yaml', attack_com=True, attack_mode='self', attack_no_proj=False, batch=4, bound='lowerbound', box_com=False, com='disco', data='../v2x-sim-1.0/test/', detection_method='none', eps=0.1, gnn_iter_times=3, inference=None, kd_flag=0, kd_weight=100000, layer=3, log=True, logpath='./log', lr=0.001, nepoch=100, nworker=1, resume='checkpoints/DiscoNet.pth', resume_teacher='', save_path=None, step=15, tracking=False, visualization=False, warp_flag=False)
+
+GPU number: 1
+command line: --detection_method none --attack config/attack/shift/debug.yaml --log --logdir experiments/debug/
+Namespace(alpha=0.1, att_subpath=None, att_target='pred', att_vis=None, attack='config/attack/shift/debug.yaml', attack_com=True, attack_mode='self', attack_no_proj=False, batch=4, bound='lowerbound', box_com=False, com='disco', data='../v2x-sim-1.0/test/', detection_method='none', eps=0.1, gnn_iter_times=3, inference=None, kd_flag=0, kd_weight=100000, layer=3, log=True, logpath='./log', lr=0.001, nepoch=100, nworker=1, resume='checkpoints/DiscoNet.pth', resume_teacher='', save_path=None, step=15, tracking=False, visualization=False, warp_flag=False)
+
+GPU number: 1
+command line: --detection_method none --attack config/attack/shift/debug.yaml --log --logdir experiments/debug/
+Namespace(alpha=0.1, att_subpath=None, att_target='pred', att_vis=None, attack='config/attack/shift/debug.yaml', attack_com=True, attack_mode='self', attack_no_proj=False, batch=4, bound='lowerbound', box_com=False, com='disco', data='../v2x-sim-1.0/test/', detection_method='none', eps=0.1, gnn_iter_times=3, inference=None, kd_flag=0, kd_weight=100000, layer=3, log=True, logpath='./log', lr=0.001, nepoch=100, nworker=1, resume='checkpoints/DiscoNet.pth', resume_teacher='', save_path=None, step=15, tracking=False, visualization=False, warp_flag=False)
+
+GPU number: 1
+command line: --detection_method none --attack config/attack/shift/debug.yaml --log --logdir experiments/debug/
+Namespace(alpha=0.1, att_subpath=None, att_target='pred', att_vis=None, attack='config/attack/shift/debug.yaml', attack_com=True, attack_mode='self', attack_no_proj=False, batch=4, bound='lowerbound', box_com=False, com='disco', data='../v2x-sim-1.0/test/', detection_method='none', eps=0.1, gnn_iter_times=3, inference=None, kd_flag=0, kd_weight=100000, layer=3, log=True, logpath='./log', lr=0.001, nepoch=100, nworker=1, resume='checkpoints/DiscoNet.pth', resume_teacher='', save_path=None, step=15, tracking=False, visualization=False, warp_flag=False)
+
++-------------+---------+---------+
+|             | mAP@0.5 | mAP@0.7 |
++-------------+---------+---------+
+| Agent 0 / 2 | 58.85   | 53.73   |
+| Agent 1 / 2 | 59.76   | 52.53   |
+| 2 agents    | 59.28   | 53.07   |
+| Agent 0 / 3 | 57.59   | 52.97   |
+| Agent 1 / 3 | 63.92   | 59.74   |
+| Agent 2 / 3 | 54.79   | 49.60   |
+| 3 agents    | 58.78   | 54.11   |
+| Agent 0 / 4 | 64.54   | 58.49   |
+| Agent 1 / 4 | 67.66   | 58.09   |
+| Agent 2 / 4 | 55.17   | 45.61   |
+| Agent 3 / 4 | 60.59   | 57.00   |
+| 4 agents    | 61.81   | 54.37   |
+| Average     | 60.26   | 53.93   |
++-------------+---------+---------+
+
+GPU number: 1
+command line: --detection_method none --attack config/attack/shift/debug.yaml --log --logdir experiments/debug/
+Namespace(alpha=0.1, att_subpath=None, att_target='pred', att_vis=None, attack='config/attack/shift/debug.yaml', attack_com=True, attack_mode='self', attack_no_proj=False, batch=4, bound='lowerbound', box_com=False, com='disco', data='../v2x-sim-1.0/test/', detection_method='none', eps=0.1, gnn_iter_times=3, inference=None, kd_flag=0, kd_weight=100000, layer=3, log=True, logpath='./log', lr=0.001, nepoch=100, nworker=1, resume='checkpoints/DiscoNet.pth', resume_teacher='', save_path=None, step=15, tracking=False, visualization=False, warp_flag=False)
+
+GPU number: 1
+command line: --detection_method none --attack config/attack/shift/debug.yaml --log --logdir experiments/debug/
+Namespace(alpha=0.1, att_subpath=None, att_target='pred', att_vis=None, attack='config/attack/shift/debug.yaml', attack_com=True, attack_mode='self', attack_no_proj=False, batch=4, bound='lowerbound', box_com=False, com='disco', data='../v2x-sim-1.0/test/', detection_method='none', eps=0.1, gnn_iter_times=3, inference=None, kd_flag=0, kd_weight=100000, layer=3, log=True, logpath='./log', lr=0.001, nepoch=100, nworker=1, resume='checkpoints/DiscoNet.pth', resume_teacher='', save_path=None, step=15, tracking=False, visualization=False, warp_flag=False)
+
+GPU number: 1
+command line: --detection_method none --attack config/attack/shift/debug.yaml --log --logdir experiments/debug/
+Namespace(alpha=0.1, att_subpath=None, att_target='pred', att_vis=None, attack='config/attack/shift/debug.yaml', attack_com=True, attack_mode='self', attack_no_proj=False, batch=4, bound='lowerbound', box_com=False, com='disco', data='../v2x-sim-1.0/test/', detection_method='none', eps=0.1, gnn_iter_times=3, inference=None, kd_flag=0, kd_weight=100000, layer=3, log=True, logpath='./log', lr=0.001, nepoch=100, nworker=1, resume='checkpoints/DiscoNet.pth', resume_teacher='', save_path=None, step=15, tracking=False, visualization=False, warp_flag=False)
+
+GPU number: 1
+command line: --detection_method none --attack config/attack/shift/debug.yaml --log --logdir experiments/debug/
+Namespace(alpha=0.1, att_subpath=None, att_target='pred', att_vis=None, attack='config/attack/shift/debug.yaml', attack_com=True, attack_mode='self', attack_no_proj=False, batch=4, bound='lowerbound', box_com=False, com='disco', data='../v2x-sim-1.0/test/', detection_method='none', eps=0.1, gnn_iter_times=3, inference=None, kd_flag=0, kd_weight=100000, layer=3, log=True, logpath='./log', lr=0.001, nepoch=100, nworker=1, resume='checkpoints/DiscoNet.pth', resume_teacher='', save_path=None, step=15, tracking=False, visualization=False, warp_flag=False)
+
++-------------+---------+---------+
+|             | mAP@0.5 | mAP@0.7 |
++-------------+---------+---------+
+| Agent 0 / 2 | 58.85   | 53.73   |
+| Agent 1 / 2 | 59.76   | 52.53   |
+| 2 agents    | 59.28   | 53.07   |
+| Agent 0 / 3 | 57.59   | 52.97   |
+| Agent 1 / 3 | 63.92   | 59.74   |
+| Agent 2 / 3 | 54.79   | 49.60   |
+| 3 agents    | 58.78   | 54.11   |
+| Agent 0 / 4 | 64.54   | 58.49   |
+| Agent 1 / 4 | 67.66   | 58.09   |
+| Agent 2 / 4 | 55.17   | 45.61   |
+| Agent 3 / 4 | 60.59   | 57.00   |
+| 4 agents    | 61.81   | 54.37   |
+| Average     | 60.26   | 53.93   |
++-------------+---------+---------+
+
+GPU number: 1
+command line: --detection_method none --attack config/attack/shift/debug.yaml --log --logdir experiments/debug/
+Namespace(alpha=0.1, att_subpath=None, att_target='pred', att_vis=None, attack='config/attack/shift/debug.yaml', attack_com=True, attack_mode='self', attack_no_proj=False, batch=4, bound='lowerbound', box_com=False, com='disco', data='../v2x-sim-1.0/test/', detection_method='none', eps=0.1, gnn_iter_times=3, inference=None, kd_flag=0, kd_weight=100000, layer=3, log=True, logpath='./log', lr=0.001, nepoch=100, nworker=1, resume='checkpoints/DiscoNet.pth', resume_teacher='', save_path=None, step=15, tracking=False, visualization=False, warp_flag=False)
+
+GPU number: 1
+command line: --detection_method none --attack config/attack/shift/debug.yaml --log --logdir experiments/debug/
+Namespace(alpha=0.1, att_subpath=None, att_target='pred', att_vis=None, attack='config/attack/shift/debug.yaml', attack_com=True, attack_mode='self', attack_no_proj=False, batch=4, bound='lowerbound', box_com=False, com='disco', data='../v2x-sim-1.0/test/', detection_method='none', eps=0.1, gnn_iter_times=3, inference=None, kd_flag=0, kd_weight=100000, layer=3, log=True, logpath='./log', lr=0.001, nepoch=100, nworker=1, resume='checkpoints/DiscoNet.pth', resume_teacher='', save_path=None, step=15, tracking=False, visualization=False, warp_flag=False)
+
+GPU number: 1
+command line: --detection_method none --attack config/attack/shift/debug.yaml --log --logdir experiments/debug/
+Namespace(alpha=0.1, att_subpath=None, att_target='pred', att_vis=None, attack='config/attack/shift/debug.yaml', attack_com=True, attack_mode='self', attack_no_proj=False, batch=4, bound='lowerbound', box_com=False, com='disco', data='../v2x-sim-1.0/test/', detection_method='none', eps=0.1, gnn_iter_times=3, inference=None, kd_flag=0, kd_weight=100000, layer=3, log=True, logpath='./log', lr=0.001, nepoch=100, nworker=1, resume='checkpoints/DiscoNet.pth', resume_teacher='', save_path=None, step=15, tracking=False, visualization=False, warp_flag=False)
+
+GPU number: 1
+command line: --detection_method none --attack config/attack/shift/debug.yaml --log --logdir experiments/debug/
+Namespace(alpha=0.1, att_subpath=None, att_target='pred', att_vis=None, attack='config/attack/shift/debug.yaml', attack_com=True, attack_mode='self', attack_no_proj=False, batch=4, bound='lowerbound', box_com=False, com='disco', data='../v2x-sim-1.0/test/', detection_method='none', eps=0.1, gnn_iter_times=3, inference=None, kd_flag=0, kd_weight=100000, layer=3, log=True, logpath='./log', lr=0.001, nepoch=100, nworker=1, resume='checkpoints/DiscoNet.pth', resume_teacher='', save_path=None, step=15, tracking=False, visualization=False, warp_flag=False)
+
+GPU number: 1
+command line: --detection_method none --attack config/attack/shift/debug.yaml --log --logdir experiments/debug/
+Namespace(alpha=0.1, att_subpath=None, att_target='pred', att_vis=None, attack='config/attack/shift/debug.yaml', attack_com=True, attack_mode='self', attack_no_proj=False, batch=4, bound='lowerbound', box_com=False, com='disco', data='../v2x-sim-1.0/test/', detection_method='none', eps=0.1, gnn_iter_times=3, inference=None, kd_flag=0, kd_weight=100000, layer=3, log=True, logpath='./log', lr=0.001, nepoch=100, nworker=1, resume='checkpoints/DiscoNet.pth', resume_teacher='', save_path=None, step=15, tracking=False, visualization=False, warp_flag=False)
+
+GPU number: 1
+command line: --detection_method none --attack config/attack/shift/debug.yaml --log --logdir experiments/debug/
+Namespace(alpha=0.1, att_subpath=None, att_target='pred', att_vis=None, attack='config/attack/shift/debug.yaml', attack_com=True, attack_mode='self', attack_no_proj=False, batch=4, bound='lowerbound', box_com=False, com='disco', data='../v2x-sim-1.0/test/', detection_method='none', eps=0.1, gnn_iter_times=3, inference=None, kd_flag=0, kd_weight=100000, layer=3, log=True, logpath='./log', lr=0.001, nepoch=100, nworker=1, resume='checkpoints/DiscoNet.pth', resume_teacher='', save_path=None, step=15, tracking=False, visualization=False, warp_flag=False)
+
+GPU number: 1
+command line: --detection_method none --attack config/attack/shift/debug.yaml --log --logdir experiments/debug/
+Namespace(alpha=0.1, att_subpath=None, att_target='pred', att_vis=None, attack='config/attack/shift/debug.yaml', attack_com=True, attack_mode='self', attack_no_proj=False, batch=4, bound='lowerbound', box_com=False, com='disco', data='../v2x-sim-1.0/test/', detection_method='none', eps=0.1, gnn_iter_times=3, inference=None, kd_flag=0, kd_weight=100000, layer=3, log=True, logpath='./log', lr=0.001, nepoch=100, nworker=1, resume='checkpoints/DiscoNet.pth', resume_teacher='', save_path=None, step=15, tracking=False, visualization=False, warp_flag=False)
+
+GPU number: 1
+command line: --detection_method none --attack config/attack/shift/debug.yaml --log --logdir experiments/debug/
+Namespace(alpha=0.1, att_subpath=None, att_target='pred', att_vis=None, attack='config/attack/shift/debug.yaml', attack_com=True, attack_mode='self', attack_no_proj=False, batch=4, bound='lowerbound', box_com=False, com='disco', data='../v2x-sim-1.0/test/', detection_method='none', eps=0.1, gnn_iter_times=3, inference=None, kd_flag=0, kd_weight=100000, layer=3, log=True, logpath='./log', lr=0.001, nepoch=100, nworker=1, resume='checkpoints/DiscoNet.pth', resume_teacher='', save_path=None, step=15, tracking=False, visualization=False, warp_flag=False)
+
+GPU number: 1
+command line: --detection_method none --attack config/attack/shift/debug.yaml --log --logdir experiments/debug/
+Namespace(alpha=0.1, att_subpath=None, att_target='pred', att_vis=None, attack='config/attack/shift/debug.yaml', attack_com=True, attack_mode='self', attack_no_proj=False, batch=4, bound='lowerbound', box_com=False, com='disco', data='../v2x-sim-1.0/test/', detection_method='none', eps=0.1, gnn_iter_times=3, inference=None, kd_flag=0, kd_weight=100000, layer=3, log=True, logpath='./log', lr=0.001, nepoch=100, nworker=1, resume='checkpoints/DiscoNet.pth', resume_teacher='', save_path=None, step=15, tracking=False, visualization=False, warp_flag=False)
+
+GPU number: 1
+command line: --detection_method none --attack config/attack/shift/debug.yaml --log --logdir experiments/debug/
+Namespace(alpha=0.1, att_subpath=None, att_target='pred', att_vis=None, attack='config/attack/shift/debug.yaml', attack_com=True, attack_mode='self', attack_no_proj=False, batch=4, bound='lowerbound', box_com=False, com='disco', data='../v2x-sim-1.0/test/', detection_method='none', eps=0.1, gnn_iter_times=3, inference=None, kd_flag=0, kd_weight=100000, layer=3, log=True, logpath='./log', lr=0.001, nepoch=100, nworker=1, resume='checkpoints/DiscoNet.pth', resume_teacher='', save_path=None, step=15, tracking=False, visualization=False, warp_flag=False)
+
++-------------+---------+---------+
+|             | mAP@0.5 | mAP@0.7 |
++-------------+---------+---------+
+| Agent 0 / 2 | 58.85   | 53.73   |
+| Agent 1 / 2 | 59.76   | 52.53   |
+| 2 agents    | 59.28   | 53.07   |
+| Agent 0 / 3 | 57.59   | 52.97   |
+| Agent 1 / 3 | 63.92   | 59.74   |
+| Agent 2 / 3 | 54.79   | 49.60   |
+| 3 agents    | 58.78   | 54.11   |
+| Agent 0 / 4 | 64.54   | 58.49   |
+| Agent 1 / 4 | 67.66   | 58.09   |
+| Agent 2 / 4 | 55.17   | 45.61   |
+| Agent 3 / 4 | 60.59   | 57.00   |
+| 4 agents    | 61.81   | 54.37   |
+| Average     | 60.26   | 53.93   |
++-------------+---------+---------+
+
+GPU number: 1
+command line: --detection_method none --attack config/attack/shift/debug.yaml --log --logdir experiments/debug/
+Namespace(alpha=0.1, att_subpath=None, att_target='pred', att_vis=None, attack='config/attack/shift/debug.yaml', attack_com=True, attack_mode='self', attack_no_proj=False, batch=4, bound='lowerbound', box_com=False, com='disco', data='../v2x-sim-1.0/test/', detection_method='none', eps=0.1, gnn_iter_times=3, inference=None, kd_flag=0, kd_weight=100000, layer=3, log=True, logpath='./log', lr=0.001, nepoch=100, nworker=1, resume='checkpoints/DiscoNet.pth', resume_teacher='', save_path=None, step=15, tracking=False, visualization=False, warp_flag=False)
+
+GPU number: 1
+command line: --detection_method none --attack config/attack/shift/debug.yaml --log --logdir experiments/debug/
+Namespace(alpha=0.1, att_subpath=None, att_target='pred', att_vis=None, attack='config/attack/shift/debug.yaml', attack_com=True, attack_mode='self', attack_no_proj=False, batch=4, bound='lowerbound', box_com=False, com='disco', data='../v2x-sim-1.0/test/', detection_method='none', eps=0.1, gnn_iter_times=3, inference=None, kd_flag=0, kd_weight=100000, layer=3, log=True, logpath='./log', lr=0.001, nepoch=100, nworker=1, resume='checkpoints/DiscoNet.pth', resume_teacher='', save_path=None, step=15, tracking=False, visualization=False, warp_flag=False)
+
++-------------+---------+---------+
+|             | mAP@0.5 | mAP@0.7 |
++-------------+---------+---------+
+| Agent 0 / 2 | 57.30   | 52.19   |
+| Agent 1 / 2 | 58.60   | 51.09   |
+| 2 agents    | 57.95   | 51.59   |
+| Agent 0 / 3 | 56.02   | 52.84   |
+| Agent 1 / 3 | 63.90   | 59.63   |
+| Agent 2 / 3 | 54.39   | 49.72   |
+| 3 agents    | 58.12   | 54.08   |
+| Agent 0 / 4 | 64.66   | 58.34   |
+| Agent 1 / 4 | 67.24   | 57.76   |
+| Agent 2 / 4 | 54.94   | 44.95   |
+| Agent 3 / 4 | 59.63   | 55.73   |
+| 4 agents    | 61.45   | 53.77   |
+| Average     | 59.56   | 53.25   |
++-------------+---------+---------+
+
+GPU number: 1
+command line: --detection_method none --attack config/attack/shift/debug.yaml --log --logdir experiments/debug/
+Namespace(alpha=0.1, att_subpath=None, att_target='pred', att_vis=None, attack='config/attack/shift/debug.yaml', attack_com=True, attack_mode='self', attack_no_proj=False, batch=4, bound='lowerbound', box_com=False, com='disco', data='../v2x-sim-1.0/test/', detection_method='none', eps=0.1, gnn_iter_times=3, inference=None, kd_flag=0, kd_weight=100000, layer=3, log=True, logpath='./log', lr=0.001, nepoch=100, nworker=1, resume='checkpoints/DiscoNet.pth', resume_teacher='', save_path=None, step=15, tracking=False, visualization=False, warp_flag=False)
+
+GPU number: 1
+command line: --detection_method none --attack config/attack/shift/debug.yaml --log --logdir experiments/debug/
+Namespace(alpha=0.1, att_subpath=None, att_target='pred', att_vis=None, attack='config/attack/shift/debug.yaml', attack_com=True, attack_mode='self', attack_no_proj=False, batch=4, bound='lowerbound', box_com=False, com='disco', data='../v2x-sim-1.0/test/', detection_method='none', eps=0.1, gnn_iter_times=3, inference=None, kd_flag=0, kd_weight=100000, layer=3, log=True, logpath='./log', lr=0.001, nepoch=100, nworker=1, resume='checkpoints/DiscoNet.pth', resume_teacher='', save_path=None, step=15, tracking=False, visualization=False, warp_flag=False)
+
++-------------+---------+---------+
+|             | mAP@0.5 | mAP@0.7 |
++-------------+---------+---------+
+| Agent 0 / 2 | 52.34   | 47.03   |
+| Agent 1 / 2 | 56.53   | 48.49   |
+| 2 agents    | 54.50   | 47.79   |
+| Agent 0 / 3 | 55.80   | 52.56   |
+| Agent 1 / 3 | 63.41   | 59.40   |
+| Agent 2 / 3 | 51.68   | 47.36   |
+| 3 agents    | 56.99   | 53.13   |
+| Agent 0 / 4 | 64.75   | 58.64   |
+| Agent 1 / 4 | 65.94   | 57.47   |
+| Agent 2 / 4 | 53.98   | 44.27   |
+| Agent 3 / 4 | 57.39   | 52.96   |
+| 4 agents    | 60.37   | 52.95   |
+| Average     | 57.81   | 51.58   |
++-------------+---------+---------+
+
++-------------+---------+---------+
+|             | mAP@0.5 | mAP@0.7 |
++-------------+---------+---------+
+| Agent 0 / 2 | 49.42   | 44.38   |
+| Agent 1 / 2 | 53.97   | 45.99   |
+| 2 agents    | 51.78   | 45.23   |
+| Agent 0 / 3 | 55.18   | 51.22   |
+| Agent 1 / 3 | 61.56   | 57.46   |
+| Agent 2 / 3 | 49.94   | 47.11   |
+| 3 agents    | 55.58   | 51.93   |
+| Agent 0 / 4 | 64.18   | 57.93   |
+| Agent 1 / 4 | 64.12   | 55.09   |
+| Agent 2 / 4 | 53.72   | 44.02   |
+| Agent 3 / 4 | 57.35   | 52.47   |
+| 4 agents    | 59.70   | 52.03   |
+| Average     | 56.38   | 50.13   |
++-------------+---------+---------+
+
+GPU number: 1
+command line: --detection_method gt --attack config/attack/shift/debug.yaml --log --logdir experiments/debug/
+Namespace(alpha=0.1, att_subpath=None, att_target='pred', att_vis=None, attack='config/attack/shift/debug.yaml', attack_com=True, attack_mode='self', attack_no_proj=False, batch=4, bound='lowerbound', box_com=False, com='disco', data='../v2x-sim-1.0/test/', detection_method='gt', eps=0.1, gnn_iter_times=3, inference=None, kd_flag=0, kd_weight=100000, layer=3, log=True, logpath='./log', lr=0.001, nepoch=100, nworker=1, resume='checkpoints/DiscoNet.pth', resume_teacher='', save_path=None, step=15, tracking=False, visualization=False, warp_flag=False)
+
++-------------+---------+---------+
+|             | mAP@0.5 | mAP@0.7 |
++-------------+---------+---------+
+| Agent 0 / 2 | 48.51   | 43.09   |
+| Agent 1 / 2 | 52.45   | 44.00   |
+| 2 agents    | 50.55   | 43.60   |
+| Agent 0 / 3 | 55.34   | 50.97   |
+| Agent 1 / 3 | 61.51   | 57.47   |
+| Agent 2 / 3 | 51.25   | 47.22   |
+| 3 agents    | 56.04   | 51.90   |
+| Agent 0 / 4 | 64.12   | 58.20   |
+| Agent 1 / 4 | 64.03   | 54.81   |
+| Agent 2 / 4 | 54.00   | 44.57   |
+| Agent 3 / 4 | 57.42   | 52.70   |
+| 4 agents    | 59.75   | 52.23   |
+| Average     | 56.22   | 49.79   |
++-------------+---------+---------+
+

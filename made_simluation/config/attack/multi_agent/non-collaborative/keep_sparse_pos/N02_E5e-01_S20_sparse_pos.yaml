@@ -1,0 +1,14 @@
+attack:
+  pgd:
+    eps: 0.5
+    alpha: 0.1
+    steps: 20
+    n_att: 2
+    attack_mode: others
+    project: True
+    keep_sparsity: True
+    keep_pos: True
+    colla_attack: False
+    noise_attack: False
+    vis_path: null
+  attack_target: pred

@@ -1,0 +1,21 @@
+# Basic attack config, use for basic debug
+attack:
+  rotate:
+    bbox_num: max
+    shift_angle: 90
+    n_att: 1
+    shift_type: random
+    padding_type: around
+  pgd:
+    eps: [0.1,0,0]
+    alpha: 0.02
+    steps: 10
+    n_att: 1
+    project: True
+    colla_attack: False
+    noise_attack: False
+    save_path: '/GPFS/data/shengyin/OpenCOOD-main/save_attack/single_agent'
+    save_attack: True
+  attack_target: gt
+  loss_type: real_new_modified
+

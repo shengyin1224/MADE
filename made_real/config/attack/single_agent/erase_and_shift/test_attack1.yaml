@@ -1,0 +1,13 @@
+# Basic attack config, use for basic debug
+attack:
+  erase:
+    iou_thresh: 0.5
+    padding_type: zero
+  shift:
+    bbox_num: max
+    n_att: 1
+    shift_length: 0
+    shift_direction: random
+    padding_type: zero
+  attack_target: pred
+  loss_type: real_new_modified

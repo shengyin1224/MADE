@@ -1,0 +1,25 @@
+# Basic attack config, use for basic debug
+attack:
+  erase:
+    iou_thresh: 0.5
+    padding_type: mode
+    do_erase: True
+  shift:
+    att_layer: [0]
+    bbox_num: max
+    n_att: 1
+    shift_length: 4
+    shift_direction: random
+    padding_type: mode
+  pgd:
+    eps: [3,3,0]
+    alpha: [0.1, 0.1, 0.1] 
+    steps: 80
+    n_att: 1
+    project: True
+    colla_attack: False
+    noise_attack: False
+    save_attack: True
+  save_path: 'save_attack/1216_ESP_temp1_'
+  attack_target: pred
+  loss_type: _1216_ESP

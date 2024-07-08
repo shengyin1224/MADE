@@ -1,0 +1,15 @@
+# Basic attack config, use for basic debug
+attack:
+  erase_pgd:
+    eps: 0.1
+    alpha: 0.02
+    steps: 10
+    n_att: 1
+    attack_mode: others
+    project: True
+    colla_attack: True
+    noise_attack: False
+    vis_path: null
+  # attack_target: pred
+  attack_target: gt
+

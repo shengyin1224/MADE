@@ -1,0 +1,54 @@
+{
+    // 使用 IntelliSense 了解相关属性。 
+    // 悬停以查看现有属性的描述。
+    // 欲了解更多信息，请访问: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Python: Current File",
+            "type": "python",
+            "request": "launch",
+            "program": "${file}",
+            "console": "integratedTerminal",
+            "justMyCode": true
+        },
+        {
+            "name": "test_attack_det",
+            "type": "python",
+            "request": "launch",
+            "program": "${workspaceFolder}/test_attack_det.py",
+            "console": "integratedTerminal",
+            "args": [
+                "--detection_method",
+                "match_cost_unsupervised", 
+                "--attack" ,
+                "config/attack/single_agent/N01_E1e-01_S10.yaml" ,
+                "--log", 
+                "--logpath", 
+                "experiments/debug",
+                "--att_subpath",
+                "./"
+            ],
+            "env": {
+                "CUDA_VISIBLE_DEVICES": "5"
+            }
+        },
+        {
+            "name": "Python Attach DiscoNet",
+            "type": "python",
+            "request": "attach",
+            // "connect": {
+            //     "host": "127.0.0.1",
+            //     "port": 8300,
+            // },
+            "port": 8300,
+            "host": "localhost",
+            // "pathMappings": [
+            //     {
+            //         "localRoot": "${workspaceFolder}", // Maps C:\Users\user1\project1
+            //         "remoteRoot": "." // To current working directory ~/project1
+            //     }
+            // ]
+        }
+    ]
+}

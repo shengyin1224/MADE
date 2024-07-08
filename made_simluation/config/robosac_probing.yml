@@ -1,0 +1,5 @@
+rob_type : probing
+step_budget : 7
+match_thresh : 0.3
+use_history : False
+estimate_att_ratio : [0,0.2,0.4,0.6,0.8] 
