@@ -4,7 +4,7 @@ Malicious Agent Detection for Robust Multi-Agent Collaborative Perception
 
 [Paper](https://arxiv.org/abs/2310.11901) | [Video](https://youtu.be/EmqhmzEQ0Y0?si=cGPx6TGaFasKTCbA) 
 
-<img src="[./images/defense-origin.gif](https://github.com/shengyin1224/MADE/blob/main/images/%E9%98%B2%E5%BE%A1%E6%95%88%E6%9E%9C-origin.gif?raw=true)" style="zoom:67%;" />
+<img src="https://github.com/shengyin1224/MADE/blob/main/images/%E9%98%B2%E5%BE%A1%E6%95%88%E6%9E%9C-origin.gif?raw=true" style="zoom:67%;" />
 
 <img src="./images/pipeline-of-made.png" style="zoom:67%;" />
 
