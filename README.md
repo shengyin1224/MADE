@@ -4,9 +4,9 @@ Malicious Agent Detection for Robust Multi-Agent Collaborative Perception
 
 [Paper](https://arxiv.org/abs/2310.11901) | [Video](https://youtu.be/EmqhmzEQ0Y0?si=cGPx6TGaFasKTCbA) 
 
-<img src="./images/defense-origin.gif" alt="防御效果-origin" style="zoom:67%;" />
+<img src="./images/defense-origin.gif" style="zoom:67%;" />
 
-<img src="./images/pipeline-of-made.png" alt="pipeline-of-made" style="zoom:67%;" />
+<img src="./images/pipeline-of-made.png" style="zoom:67%;" />
 
 Recently, multi-agent collaborative (MAC) perception has been proposed and outperformed the traditional singleagent perception in many applications, such as autonomous driving. However, MAC perception is more vulnerable to adversarial attacks than single-agent perception due to the information exchange. The attacker can easily degrade the performance of a victim agent by sending harmful information from a malicious agent nearby. In this paper, we propose Malicious Agent Detection (MADE), a reactive defense specific to MAC perception that can be deployed by an agent to accurately detect and then remove any potential malicious agent in its local collaboration network. In particular, MADE inspects each agent in the network independently using a semi-supervised anomaly detector based on a double-hypothesis test with the Benjamini-Hochberg procedure for false positive control. For the two hypothesis tests, we propose a match loss statistic and a collaborative reconstruction loss statistic, respectively, both based on the consistency between the agent to be inspected and the ego agent deployed with our detector. We comprehensively evaluate MADE on a benchmark 3D dataset, V2X-sim, and a real-road dataset, DAIR-V2X, comparing it to baseline defenses. Notably, with the protection of MADE, the drops in the average precision compared with the best-case ‘Oracle’ defender are merely 1.27% and 0.28%, respectively.
 
